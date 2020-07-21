@@ -27,12 +27,20 @@ In above structure, we have 5 member : 3 Variables, 2 Methods.
 ////////////////////////////////////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////////////////
 
+Important Points to remember
+
 Public, Private Members
 
 Public : You can access any member outside the structure
 Private : You can access only in structure definition
 
 Importance : You can protect your data from begin corrupted. See this video [https://www.youtube.com/watch?v=JTNlO8qwESw&list=PLLYz8uHU480j37APNXBdPz7YzAi4XlQUF&index=18].
+
+Struct vs Class
+
+In struct, by default all members are public 
+In class, by default all members are private
+and all the remaining comcept are exactly same.
 
 ////////////////////////////////////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////////////////
